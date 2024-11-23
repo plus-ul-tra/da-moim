@@ -1,7 +1,9 @@
 # damoim
-<img width="269" alt="KakaoTalk_Photo_2023-11-18-17-34-24 002" src="https://github.com/user-attachments/assets/ad0ca363-cb79-47e5-afbc-18d4d385956f">
 A new Flutter project.
 제 1회 소다제 앱 개발 해커톤 대회
+
+<img width="269" alt="KakaoTalk_Photo_2023-11-18-17-34-24 002" src="https://github.com/user-attachments/assets/ad0ca363-cb79-47e5-afbc-18d4d385956f">
+
 
 ## Overview
 0. Splash page
