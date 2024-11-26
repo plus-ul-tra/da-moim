@@ -4,6 +4,8 @@ A new Flutter project.
 
 개발 시간 24H 
 
+역할 : 앱 아이디어 기획 및 플로우 구성, 프런트앤드
+
 <img width="269" alt="KakaoTalk_Photo_2023-11-18-17-34-24 002" src="https://github.com/user-attachments/assets/ad0ca363-cb79-47e5-afbc-18d4d385956f">
 
 
